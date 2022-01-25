@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing2.3 Creating a structure\bin\Debug\Listing2.3 Creating a structure.exe.config
+C:\Git\70-483 programming c#\Listing2.3 Creating a structure\bin\Debug\Listing2.3 Creating a structure.exe
+C:\Git\70-483 programming c#\Listing2.3 Creating a structure\bin\Debug\Listing2.3 Creating a structure.pdb
+C:\Git\70-483 programming c#\Listing2.3 Creating a structure\obj\Debug\Listing2.3 Creating a structure.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing2.3 Creating a structure\obj\Debug\Listing2.3 Creating a structure.exe
+C:\Git\70-483 programming c#\Listing2.3 Creating a structure\obj\Debug\Listing2.3 Creating a structure.pdb

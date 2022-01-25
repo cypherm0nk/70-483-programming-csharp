@@ -1,0 +1,7 @@
+C:\Users\joao.paulo.santos\source\repos\Listing 3-2 Creating XML\bin\Debug\Listing 3-2 Creating XML.exe.config
+C:\Users\joao.paulo.santos\source\repos\Listing 3-2 Creating XML\bin\Debug\Listing 3-2 Creating XML.exe
+C:\Users\joao.paulo.santos\source\repos\Listing 3-2 Creating XML\bin\Debug\Listing 3-2 Creating XML.pdb
+C:\Users\joao.paulo.santos\source\repos\Listing 3-2 Creating XML\obj\Debug\Listing 3-2 Creating XML.csprojAssemblyReference.cache
+C:\Users\joao.paulo.santos\source\repos\Listing 3-2 Creating XML\obj\Debug\Listing 3-2 Creating XML.csproj.CoreCompileInputs.cache
+C:\Users\joao.paulo.santos\source\repos\Listing 3-2 Creating XML\obj\Debug\Listing 3-2 Creating XML.exe
+C:\Users\joao.paulo.santos\source\repos\Listing 3-2 Creating XML\obj\Debug\Listing 3-2 Creating XML.pdb

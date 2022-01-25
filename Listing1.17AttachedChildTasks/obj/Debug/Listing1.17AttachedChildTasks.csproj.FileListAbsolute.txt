@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing1.17AttachedChildTasks\bin\Debug\Listing1.17AttachedChildTasks.exe.config
+C:\Git\70-483 programming c#\Listing1.17AttachedChildTasks\bin\Debug\Listing1.17AttachedChildTasks.exe
+C:\Git\70-483 programming c#\Listing1.17AttachedChildTasks\bin\Debug\Listing1.17AttachedChildTasks.pdb
+C:\Git\70-483 programming c#\Listing1.17AttachedChildTasks\obj\Debug\Listing1.17AttachedChildTasks.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing1.17AttachedChildTasks\obj\Debug\Listing1.17AttachedChildTasks.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.17AttachedChildTasks\obj\Debug\Listing1.17AttachedChildTasks.exe
+C:\Git\70-483 programming c#\Listing1.17AttachedChildTasks\obj\Debug\Listing1.17AttachedChildTasks.pdb

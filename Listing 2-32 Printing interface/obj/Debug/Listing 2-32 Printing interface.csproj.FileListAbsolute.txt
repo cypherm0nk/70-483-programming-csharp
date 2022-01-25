@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-32 Printing interface\obj\Debug\Listing 2-32 Printing interface.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-32 Printing interface\bin\Debug\Listing 2-32 Printing interface.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-32 Printing interface\bin\Debug\Listing 2-32 Printing interface.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-32 Printing interface\bin\Debug\Listing 2-32 Printing interface.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-32 Printing interface\obj\Debug\Listing 2-32 Printing interface.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-32 Printing interface\obj\Debug\Listing 2-32 Printing interface.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-32 Printing interface\obj\Debug\Listing 2-32 Printing interface.pdb

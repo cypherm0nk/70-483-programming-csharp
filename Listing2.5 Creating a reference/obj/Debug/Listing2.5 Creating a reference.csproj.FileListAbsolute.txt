@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing2.5 Creating a reference\bin\Debug\Listing2.5 Creating a reference.exe.config
+C:\Git\70-483 programming c#\Listing2.5 Creating a reference\bin\Debug\Listing2.5 Creating a reference.exe
+C:\Git\70-483 programming c#\Listing2.5 Creating a reference\bin\Debug\Listing2.5 Creating a reference.pdb
+C:\Git\70-483 programming c#\Listing2.5 Creating a reference\obj\Debug\Listing2.5 Creating a reference.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing2.5 Creating a reference\obj\Debug\Listing2.5 Creating a reference.exe
+C:\Git\70-483 programming c#\Listing2.5 Creating a reference\obj\Debug\Listing2.5 Creating a reference.pdb

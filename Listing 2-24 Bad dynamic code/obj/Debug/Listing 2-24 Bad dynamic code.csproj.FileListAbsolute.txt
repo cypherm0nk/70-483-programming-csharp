@@ -1,0 +1,6 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-24 Bad dynamic code\bin\Debug\Listing 2-24 Bad dynamic code.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-24 Bad dynamic code\bin\Debug\Listing 2-24 Bad dynamic code.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-24 Bad dynamic code\bin\Debug\Listing 2-24 Bad dynamic code.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-24 Bad dynamic code\obj\Debug\Listing 2-24 Bad dynamic code.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-24 Bad dynamic code\obj\Debug\Listing 2-24 Bad dynamic code.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-24 Bad dynamic code\obj\Debug\Listing 2-24 Bad dynamic code.pdb

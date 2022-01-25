@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-42 Using foreach\bin\Debug\Listing 2-42 Using foreach.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-42 Using foreach\bin\Debug\Listing 2-42 Using foreach.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-42 Using foreach\bin\Debug\Listing 2-42 Using foreach.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-42 Using foreach\obj\Debug\Listing 2-42 Using foreach.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-42 Using foreach\obj\Debug\Listing 2-42 Using foreach.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-42 Using foreach\obj\Debug\Listing 2-42 Using foreach.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-42 Using foreach\obj\Debug\Listing 2-42 Using foreach.pdb

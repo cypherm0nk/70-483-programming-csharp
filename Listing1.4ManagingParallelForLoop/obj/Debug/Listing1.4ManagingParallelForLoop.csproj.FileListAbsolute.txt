@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing1.4ManagingParallelForLoop\bin\Debug\Listing1.4ManagingParallelForLoop.exe.config
+C:\Git\70-483 programming c#\Listing1.4ManagingParallelForLoop\bin\Debug\Listing1.4ManagingParallelForLoop.exe
+C:\Git\70-483 programming c#\Listing1.4ManagingParallelForLoop\bin\Debug\Listing1.4ManagingParallelForLoop.pdb
+C:\Git\70-483 programming c#\Listing1.4ManagingParallelForLoop\obj\Debug\Listing1.4ManagingParallelForLoop.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing1.4ManagingParallelForLoop\obj\Debug\Listing1.4ManagingParallelForLoop.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.4ManagingParallelForLoop\obj\Debug\Listing1.4ManagingParallelForLoop.exe
+C:\Git\70-483 programming c#\Listing1.4ManagingParallelForLoop\obj\Debug\Listing1.4ManagingParallelForLoop.pdb

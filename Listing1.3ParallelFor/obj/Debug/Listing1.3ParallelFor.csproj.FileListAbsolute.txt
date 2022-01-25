@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing1.3ParallelFor\bin\Debug\Listing1.3ParallelFor.exe.config
+C:\Git\70-483 programming c#\Listing1.3ParallelFor\bin\Debug\Listing1.3ParallelFor.exe
+C:\Git\70-483 programming c#\Listing1.3ParallelFor\bin\Debug\Listing1.3ParallelFor.pdb
+C:\Git\70-483 programming c#\Listing1.3ParallelFor\obj\Debug\Listing1.3ParallelFor.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing1.3ParallelFor\obj\Debug\Listing1.3ParallelFor.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.3ParallelFor\obj\Debug\Listing1.3ParallelFor.exe
+C:\Git\70-483 programming c#\Listing1.3ParallelFor\obj\Debug\Listing1.3ParallelFor.pdb

@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing1.5ParallelLINQ\bin\Debug\Listing1.5ParallelLINQ.exe.config
+C:\Git\70-483 programming c#\Listing1.5ParallelLINQ\bin\Debug\Listing1.5ParallelLINQ.exe
+C:\Git\70-483 programming c#\Listing1.5ParallelLINQ\bin\Debug\Listing1.5ParallelLINQ.pdb
+C:\Git\70-483 programming c#\Listing1.5ParallelLINQ\obj\Debug\Listing1.5ParallelLINQ.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing1.5ParallelLINQ\obj\Debug\Listing1.5ParallelLINQ.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.5ParallelLINQ\obj\Debug\Listing1.5ParallelLINQ.exe
+C:\Git\70-483 programming c#\Listing1.5ParallelLINQ\obj\Debug\Listing1.5ParallelLINQ.pdb

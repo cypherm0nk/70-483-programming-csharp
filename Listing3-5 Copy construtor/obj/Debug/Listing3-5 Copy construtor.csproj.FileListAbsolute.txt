@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing3-5 Copy construtor\bin\Debug\Listing3-5 Copy construtor.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing3-5 Copy construtor\bin\Debug\Listing3-5 Copy construtor.exe
+C:\JPGIT\70-483-programming-csharp\Listing3-5 Copy construtor\bin\Debug\Listing3-5 Copy construtor.pdb
+C:\JPGIT\70-483-programming-csharp\Listing3-5 Copy construtor\obj\Debug\Listing3-5 Copy construtor.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing3-5 Copy construtor\obj\Debug\Listing3-5 Copy construtor.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing3-5 Copy construtor\obj\Debug\Listing3-5 Copy construtor.exe
+C:\JPGIT\70-483-programming-csharp\Listing3-5 Copy construtor\obj\Debug\Listing3-5 Copy construtor.pdb

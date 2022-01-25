@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing2.1Value and Reference types\bin\Debug\Listing2.1Value and Reference types.exe.config
+C:\Git\70-483 programming c#\Listing2.1Value and Reference types\bin\Debug\Listing2.1Value and Reference types.exe
+C:\Git\70-483 programming c#\Listing2.1Value and Reference types\bin\Debug\Listing2.1Value and Reference types.pdb
+C:\Git\70-483 programming c#\Listing2.1Value and Reference types\obj\Debug\Listing2.1Value and Reference types.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing2.1Value and Reference types\obj\Debug\Listing2.1Value and Reference types.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing2.1Value and Reference types\obj\Debug\Listing2.1Value and Reference types.exe
+C:\Git\70-483 programming c#\Listing2.1Value and Reference types\obj\Debug\Listing2.1Value and Reference types.pdb

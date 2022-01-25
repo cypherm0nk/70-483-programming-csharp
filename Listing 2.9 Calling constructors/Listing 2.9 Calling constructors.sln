@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 2.9 Calling constructors", "Listing 2.9 Calling constructors.csproj", "{A9071987-6A3D-48A6-A26C-A177109540FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9071987-6A3D-48A6-A26C-A177109540FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9071987-6A3D-48A6-A26C-A177109540FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9071987-6A3D-48A6-A26C-A177109540FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9071987-6A3D-48A6-A26C-A177109540FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B2AA94-C7DE-4147-92DD-F95F9AC944AD}
+	EndGlobalSection
+EndGlobal

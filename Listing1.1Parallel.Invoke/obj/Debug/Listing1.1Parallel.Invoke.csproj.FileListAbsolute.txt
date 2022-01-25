@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing1.1Parallel.Invoke\bin\Debug\Listing1.1Parallel.Invoke.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing1.1Parallel.Invoke\bin\Debug\Listing1.1Parallel.Invoke.exe
+C:\JPGIT\70-483-programming-csharp\Listing1.1Parallel.Invoke\bin\Debug\Listing1.1Parallel.Invoke.pdb
+C:\JPGIT\70-483-programming-csharp\Listing1.1Parallel.Invoke\obj\Debug\Listing1.1Parallel.Invoke.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing1.1Parallel.Invoke\obj\Debug\Listing1.1Parallel.Invoke.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing1.1Parallel.Invoke\obj\Debug\Listing1.1Parallel.Invoke.exe
+C:\JPGIT\70-483-programming-csharp\Listing1.1Parallel.Invoke\obj\Debug\Listing1.1Parallel.Invoke.pdb

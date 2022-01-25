@@ -1,0 +1,6 @@
+C:\JPGIT\70-483-programming-csharp\Listing1.2Parallel.ForEach\bin\Debug\Listing1.2Parallel.ForEach.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing1.2Parallel.ForEach\bin\Debug\Listing1.2Parallel.ForEach.exe
+C:\JPGIT\70-483-programming-csharp\Listing1.2Parallel.ForEach\bin\Debug\Listing1.2Parallel.ForEach.pdb
+C:\JPGIT\70-483-programming-csharp\Listing1.2Parallel.ForEach\obj\Debug\Listing1.2Parallel.ForEach.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing1.2Parallel.ForEach\obj\Debug\Listing1.2Parallel.ForEach.exe
+C:\JPGIT\70-483-programming-csharp\Listing1.2Parallel.ForEach\obj\Debug\Listing1.2Parallel.ForEach.pdb

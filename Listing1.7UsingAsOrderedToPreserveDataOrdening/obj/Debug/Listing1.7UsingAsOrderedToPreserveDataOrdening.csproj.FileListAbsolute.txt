@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing1.7UsingAsOrderedToPreserveDataOrdening\bin\Debug\Listing1.7UsingAsOrderedToPreserveDataOrdening.exe.config
+C:\Git\70-483 programming c#\Listing1.7UsingAsOrderedToPreserveDataOrdening\bin\Debug\Listing1.7UsingAsOrderedToPreserveDataOrdening.exe
+C:\Git\70-483 programming c#\Listing1.7UsingAsOrderedToPreserveDataOrdening\bin\Debug\Listing1.7UsingAsOrderedToPreserveDataOrdening.pdb
+C:\Git\70-483 programming c#\Listing1.7UsingAsOrderedToPreserveDataOrdening\obj\Debug\Listing1.7UsingAsOrderedToPreserveDataOrdening.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.7UsingAsOrderedToPreserveDataOrdening\obj\Debug\Listing1.7UsingAsOrderedToPreserveDataOrdening.exe
+C:\Git\70-483 programming c#\Listing1.7UsingAsOrderedToPreserveDataOrdening\obj\Debug\Listing1.7UsingAsOrderedToPreserveDataOrdening.pdb

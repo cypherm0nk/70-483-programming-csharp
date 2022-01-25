@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing3-19Machine level keys\bin\Debug\Listing3-19Machine level keys.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing3-19Machine level keys\bin\Debug\Listing3-19Machine level keys.exe
+C:\JPGIT\70-483-programming-csharp\Listing3-19Machine level keys\bin\Debug\Listing3-19Machine level keys.pdb
+C:\JPGIT\70-483-programming-csharp\Listing3-19Machine level keys\obj\Debug\Listing3-19Machine level keys.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing3-19Machine level keys\obj\Debug\Listing3-19Machine level keys.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing3-19Machine level keys\obj\Debug\Listing3-19Machine level keys.exe
+C:\JPGIT\70-483-programming-csharp\Listing3-19Machine level keys\obj\Debug\Listing3-19Machine level keys.pdb

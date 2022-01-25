@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing1.10ExceptionsInPLINQQueries\bin\Debug\Listing1.10ExceptionsInPLINQQueries.exe.config
+C:\Git\70-483 programming c#\Listing1.10ExceptionsInPLINQQueries\bin\Debug\Listing1.10ExceptionsInPLINQQueries.exe
+C:\Git\70-483 programming c#\Listing1.10ExceptionsInPLINQQueries\bin\Debug\Listing1.10ExceptionsInPLINQQueries.pdb
+C:\Git\70-483 programming c#\Listing1.10ExceptionsInPLINQQueries\obj\Debug\Listing1.10ExceptionsInPLINQQueries.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.10ExceptionsInPLINQQueries\obj\Debug\Listing1.10ExceptionsInPLINQQueries.exe
+C:\Git\70-483 programming c#\Listing1.10ExceptionsInPLINQQueries\obj\Debug\Listing1.10ExceptionsInPLINQQueries.pdb

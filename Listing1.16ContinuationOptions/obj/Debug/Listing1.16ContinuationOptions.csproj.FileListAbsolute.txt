@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing1.16ContinuationOptions\obj\Debug\Listing1.16ContinuationOptions.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.16ContinuationOptions\bin\Debug\Listing1.16ContinuationOptions.exe.config
+C:\Git\70-483 programming c#\Listing1.16ContinuationOptions\bin\Debug\Listing1.16ContinuationOptions.exe
+C:\Git\70-483 programming c#\Listing1.16ContinuationOptions\bin\Debug\Listing1.16ContinuationOptions.pdb
+C:\Git\70-483 programming c#\Listing1.16ContinuationOptions\obj\Debug\Listing1.16ContinuationOptions.exe
+C:\Git\70-483 programming c#\Listing1.16ContinuationOptions\obj\Debug\Listing1.16ContinuationOptions.pdb

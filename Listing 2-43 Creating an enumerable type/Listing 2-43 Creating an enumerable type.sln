@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 2-43 Creating an enumerable type", "Listing 2-43 Creating an enumerable type.csproj", "{AB6CE7C5-3949-43D6-B9F1-C55FEA7FE274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6CE7C5-3949-43D6-B9F1-C55FEA7FE274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6CE7C5-3949-43D6-B9F1-C55FEA7FE274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6CE7C5-3949-43D6-B9F1-C55FEA7FE274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6CE7C5-3949-43D6-B9F1-C55FEA7FE274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A9FE15-48E5-4DB8-96AC-9557C56604E2}
+	EndGlobalSection
+EndGlobal

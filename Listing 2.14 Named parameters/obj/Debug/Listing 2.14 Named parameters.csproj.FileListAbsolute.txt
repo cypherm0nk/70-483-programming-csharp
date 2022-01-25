@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing 2.14 Named parameters\obj\Debug\Listing 2.14 Named parameters.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing 2.14 Named parameters\bin\Debug\Listing 2.14 Named parameters.exe.config
+C:\Git\70-483 programming c#\Listing 2.14 Named parameters\bin\Debug\Listing 2.14 Named parameters.exe
+C:\Git\70-483 programming c#\Listing 2.14 Named parameters\bin\Debug\Listing 2.14 Named parameters.pdb
+C:\Git\70-483 programming c#\Listing 2.14 Named parameters\obj\Debug\Listing 2.14 Named parameters.exe
+C:\Git\70-483 programming c#\Listing 2.14 Named parameters\obj\Debug\Listing 2.14 Named parameters.pdb

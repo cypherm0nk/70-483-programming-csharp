@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2.7 Constructors\bin\Debug\Listing 2.7 Constructors.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2.7 Constructors\bin\Debug\Listing 2.7 Constructors.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2.7 Constructors\bin\Debug\Listing 2.7 Constructors.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2.7 Constructors\obj\Debug\Listing 2.7 Constructors.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2.7 Constructors\obj\Debug\Listing 2.7 Constructors.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2.7 Constructors\obj\Debug\Listing 2.7 Constructors.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2.7 Constructors\obj\Debug\Listing 2.7 Constructors.pdb

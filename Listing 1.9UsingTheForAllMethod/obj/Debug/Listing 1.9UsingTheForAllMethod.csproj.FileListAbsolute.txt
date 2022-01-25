@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing 1.9UsingTheForAllMethod\bin\Debug\Listing 1.9UsingTheForAllMethod.exe.config
+C:\Git\70-483 programming c#\Listing 1.9UsingTheForAllMethod\bin\Debug\Listing 1.9UsingTheForAllMethod.exe
+C:\Git\70-483 programming c#\Listing 1.9UsingTheForAllMethod\bin\Debug\Listing 1.9UsingTheForAllMethod.pdb
+C:\Git\70-483 programming c#\Listing 1.9UsingTheForAllMethod\obj\Debug\Listing 1.9UsingTheForAllMethod.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing 1.9UsingTheForAllMethod\obj\Debug\Listing 1.9UsingTheForAllMethod.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing 1.9UsingTheForAllMethod\obj\Debug\Listing 1.9UsingTheForAllMethod.exe
+C:\Git\70-483 programming c#\Listing 1.9UsingTheForAllMethod\obj\Debug\Listing 1.9UsingTheForAllMethod.pdb

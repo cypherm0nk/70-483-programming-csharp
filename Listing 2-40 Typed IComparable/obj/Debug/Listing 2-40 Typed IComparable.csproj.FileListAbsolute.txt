@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-40 Typed IComparable\obj\Debug\Listing 2-40 Typed IComparable.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-40 Typed IComparable\obj\Debug\Listing 2-40 Typed IComparable.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-40 Typed IComparable\bin\Debug\Listing 2-40 Typed IComparable.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-40 Typed IComparable\bin\Debug\Listing 2-40 Typed IComparable.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-40 Typed IComparable\bin\Debug\Listing 2-40 Typed IComparable.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-40 Typed IComparable\obj\Debug\Listing 2-40 Typed IComparable.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-40 Typed IComparable\obj\Debug\Listing 2-40 Typed IComparable.pdb

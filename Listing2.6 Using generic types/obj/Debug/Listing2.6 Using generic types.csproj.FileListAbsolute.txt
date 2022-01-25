@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing2.6 Using generic types\bin\Debug\Listing2.6 Using generic types.exe.config
+C:\Git\70-483 programming c#\Listing2.6 Using generic types\bin\Debug\Listing2.6 Using generic types.exe
+C:\Git\70-483 programming c#\Listing2.6 Using generic types\bin\Debug\Listing2.6 Using generic types.pdb
+C:\Git\70-483 programming c#\Listing2.6 Using generic types\obj\Debug\Listing2.6 Using generic types.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing2.6 Using generic types\obj\Debug\Listing2.6 Using generic types.exe
+C:\Git\70-483 programming c#\Listing2.6 Using generic types\obj\Debug\Listing2.6 Using generic types.pdb

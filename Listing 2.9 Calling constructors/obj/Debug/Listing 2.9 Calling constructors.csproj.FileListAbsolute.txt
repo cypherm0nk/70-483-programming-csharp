@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing 2.9 Calling constructors\bin\Debug\Listing 2.9 Calling constructors.exe.config
+C:\Git\70-483 programming c#\Listing 2.9 Calling constructors\bin\Debug\Listing 2.9 Calling constructors.exe
+C:\Git\70-483 programming c#\Listing 2.9 Calling constructors\bin\Debug\Listing 2.9 Calling constructors.pdb
+C:\Git\70-483 programming c#\Listing 2.9 Calling constructors\obj\Debug\Listing 2.9 Calling constructors.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing 2.9 Calling constructors\obj\Debug\Listing 2.9 Calling constructors.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing 2.9 Calling constructors\obj\Debug\Listing 2.9 Calling constructors.exe
+C:\Git\70-483 programming c#\Listing 2.9 Calling constructors\obj\Debug\Listing 2.9 Calling constructors.pdb

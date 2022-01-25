@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing3-21 Checksums\bin\Debug\Listing3-21 Checksums.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing3-21 Checksums\bin\Debug\Listing3-21 Checksums.exe
+C:\JPGIT\70-483-programming-csharp\Listing3-21 Checksums\bin\Debug\Listing3-21 Checksums.pdb
+C:\JPGIT\70-483-programming-csharp\Listing3-21 Checksums\obj\Debug\Listing3-21 Checksums.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing3-21 Checksums\obj\Debug\Listing3-21 Checksums.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing3-21 Checksums\obj\Debug\Listing3-21 Checksums.exe
+C:\JPGIT\70-483-programming-csharp\Listing3-21 Checksums\obj\Debug\Listing3-21 Checksums.pdb

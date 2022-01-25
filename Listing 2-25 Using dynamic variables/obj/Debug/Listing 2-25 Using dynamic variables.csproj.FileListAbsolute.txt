@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-25 Using dynamic variables\bin\Debug\Listing 2-25 Using dynamic variables.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-25 Using dynamic variables\bin\Debug\Listing 2-25 Using dynamic variables.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-25 Using dynamic variables\bin\Debug\Listing 2-25 Using dynamic variables.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-25 Using dynamic variables\obj\Debug\Listing 2-25 Using dynamic variables.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-25 Using dynamic variables\obj\Debug\Listing 2-25 Using dynamic variables.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-25 Using dynamic variables\obj\Debug\Listing 2-25 Using dynamic variables.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-25 Using dynamic variables\obj\Debug\Listing 2-25 Using dynamic variables.pdb

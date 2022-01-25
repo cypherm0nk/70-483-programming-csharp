@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing 2.12 Simple Method\bin\Debug\Listing 2.12 Simple Method.exe.config
+C:\Git\70-483 programming c#\Listing 2.12 Simple Method\bin\Debug\Listing 2.12 Simple Method.exe
+C:\Git\70-483 programming c#\Listing 2.12 Simple Method\bin\Debug\Listing 2.12 Simple Method.pdb
+C:\Git\70-483 programming c#\Listing 2.12 Simple Method\obj\Debug\Listing 2.12 Simple Method.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing 2.12 Simple Method\obj\Debug\Listing 2.12 Simple Method.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing 2.12 Simple Method\obj\Debug\Listing 2.12 Simple Method.exe
+C:\Git\70-483 programming c#\Listing 2.12 Simple Method\obj\Debug\Listing 2.12 Simple Method.pdb

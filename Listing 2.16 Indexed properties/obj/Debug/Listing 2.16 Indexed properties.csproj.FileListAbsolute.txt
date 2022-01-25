@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing 2.16 Indexed properties\obj\Debug\Listing 2.16 Indexed properties.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing 2.16 Indexed properties\obj\Debug\Listing 2.16 Indexed properties.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing 2.16 Indexed properties\bin\Debug\Listing 2.16 Indexed properties.exe.config
+C:\Git\70-483 programming c#\Listing 2.16 Indexed properties\bin\Debug\Listing 2.16 Indexed properties.exe
+C:\Git\70-483 programming c#\Listing 2.16 Indexed properties\bin\Debug\Listing 2.16 Indexed properties.pdb
+C:\Git\70-483 programming c#\Listing 2.16 Indexed properties\obj\Debug\Listing 2.16 Indexed properties.exe
+C:\Git\70-483 programming c#\Listing 2.16 Indexed properties\obj\Debug\Listing 2.16 Indexed properties.pdb

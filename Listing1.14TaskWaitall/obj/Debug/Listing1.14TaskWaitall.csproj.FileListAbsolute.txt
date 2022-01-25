@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing1.14TaskWaitall\bin\Debug\Listing1.14TaskWaitall.exe.config
+C:\Git\70-483 programming c#\Listing1.14TaskWaitall\bin\Debug\Listing1.14TaskWaitall.exe
+C:\Git\70-483 programming c#\Listing1.14TaskWaitall\bin\Debug\Listing1.14TaskWaitall.pdb
+C:\Git\70-483 programming c#\Listing1.14TaskWaitall\obj\Debug\Listing1.14TaskWaitall.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing1.14TaskWaitall\obj\Debug\Listing1.14TaskWaitall.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.14TaskWaitall\obj\Debug\Listing1.14TaskWaitall.exe
+C:\Git\70-483 programming c#\Listing1.14TaskWaitall\obj\Debug\Listing1.14TaskWaitall.pdb

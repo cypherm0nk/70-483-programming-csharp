@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing1.15ContinuationTasks\bin\Debug\Listing1.15ContinuationTasks.exe.config
+C:\Git\70-483 programming c#\Listing1.15ContinuationTasks\bin\Debug\Listing1.15ContinuationTasks.exe
+C:\Git\70-483 programming c#\Listing1.15ContinuationTasks\bin\Debug\Listing1.15ContinuationTasks.pdb
+C:\Git\70-483 programming c#\Listing1.15ContinuationTasks\obj\Debug\Listing1.15ContinuationTasks.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.15ContinuationTasks\obj\Debug\Listing1.15ContinuationTasks.exe
+C:\Git\70-483 programming c#\Listing1.15ContinuationTasks\obj\Debug\Listing1.15ContinuationTasks.pdb

@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing1.6InformingParallelization\obj\Debug\Listing1.6InformingParallelization.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.6InformingParallelization\bin\Debug\Listing1.6InformingParallelization.exe.config
+C:\Git\70-483 programming c#\Listing1.6InformingParallelization\bin\Debug\Listing1.6InformingParallelization.exe
+C:\Git\70-483 programming c#\Listing1.6InformingParallelization\bin\Debug\Listing1.6InformingParallelization.pdb
+C:\Git\70-483 programming c#\Listing1.6InformingParallelization\obj\Debug\Listing1.6InformingParallelization.exe
+C:\Git\70-483 programming c#\Listing1.6InformingParallelization\obj\Debug\Listing1.6InformingParallelization.pdb

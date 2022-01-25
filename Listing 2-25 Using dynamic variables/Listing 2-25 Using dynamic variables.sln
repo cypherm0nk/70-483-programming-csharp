@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 2-25 Using dynamic variables", "Listing 2-25 Using dynamic variables.csproj", "{6A117F51-28FB-4B80-A73C-9481825C655C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A117F51-28FB-4B80-A73C-9481825C655C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A117F51-28FB-4B80-A73C-9481825C655C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A117F51-28FB-4B80-A73C-9481825C655C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A117F51-28FB-4B80-A73C-9481825C655C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B364E08A-E371-49FB-8043-C1507F72720C}
+	EndGlobalSection
+EndGlobal

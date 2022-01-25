@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing 2.11 Static variables\bin\Debug\Listing 2.11 Static variables.exe.config
+C:\Git\70-483 programming c#\Listing 2.11 Static variables\bin\Debug\Listing 2.11 Static variables.exe
+C:\Git\70-483 programming c#\Listing 2.11 Static variables\bin\Debug\Listing 2.11 Static variables.pdb
+C:\Git\70-483 programming c#\Listing 2.11 Static variables\obj\Debug\Listing 2.11 Static variables.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing 2.11 Static variables\obj\Debug\Listing 2.11 Static variables.exe
+C:\Git\70-483 programming c#\Listing 2.11 Static variables\obj\Debug\Listing 2.11 Static variables.pdb

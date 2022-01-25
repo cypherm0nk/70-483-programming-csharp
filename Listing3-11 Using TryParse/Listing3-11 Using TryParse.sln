@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing3-11 Using TryParse", "Listing3-11 Using TryParse.csproj", "{A2A61C15-501F-415B-ABF9-1553CE1A699A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A61C15-501F-415B-ABF9-1553CE1A699A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A61C15-501F-415B-ABF9-1553CE1A699A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A61C15-501F-415B-ABF9-1553CE1A699A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A61C15-501F-415B-ABF9-1553CE1A699A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912E7C6B-C86B-4703-91B7-F70850CDA21B}
+	EndGlobalSection
+EndGlobal

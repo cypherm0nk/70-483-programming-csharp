@@ -1,0 +1,6 @@
+C:\Git\70-483 programming c#\Listing1.8IdentifyingElements of a ParallelQueryAsSequential\bin\Debug\Listing1.8IdentifyingElements of a ParallelQueryAsSequential.exe.config
+C:\Git\70-483 programming c#\Listing1.8IdentifyingElements of a ParallelQueryAsSequential\bin\Debug\Listing1.8IdentifyingElements of a ParallelQueryAsSequential.exe
+C:\Git\70-483 programming c#\Listing1.8IdentifyingElements of a ParallelQueryAsSequential\bin\Debug\Listing1.8IdentifyingElements of a ParallelQueryAsSequential.pdb
+C:\Git\70-483 programming c#\Listing1.8IdentifyingElements of a ParallelQueryAsSequential\obj\Debug\Listing1.8IdentifyingElements of a ParallelQueryAsSequential.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing1.8IdentifyingElements of a ParallelQueryAsSequential\obj\Debug\Listing1.8IdentifyingElements of a ParallelQueryAsSequential.exe
+C:\Git\70-483 programming c#\Listing1.8IdentifyingElements of a ParallelQueryAsSequential\obj\Debug\Listing1.8IdentifyingElements of a ParallelQueryAsSequential.pdb

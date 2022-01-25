@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing1.12RunATask\bin\Debug\Listing1.12RunATask.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing1.12RunATask\bin\Debug\Listing1.12RunATask.exe
+C:\JPGIT\70-483-programming-csharp\Listing1.12RunATask\bin\Debug\Listing1.12RunATask.pdb
+C:\JPGIT\70-483-programming-csharp\Listing1.12RunATask\obj\Debug\Listing1.12RunATask.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing1.12RunATask\obj\Debug\Listing1.12RunATask.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing1.12RunATask\obj\Debug\Listing1.12RunATask.exe
+C:\JPGIT\70-483-programming-csharp\Listing1.12RunATask\obj\Debug\Listing1.12RunATask.pdb

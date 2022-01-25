@@ -1,0 +1,6 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-28 Using a proterty\bin\Debug\Listing 2-28 Using a proterty.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-28 Using a proterty\bin\Debug\Listing 2-28 Using a proterty.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-28 Using a proterty\bin\Debug\Listing 2-28 Using a proterty.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-28 Using a proterty\obj\Debug\Listing 2-28 Using a proterty.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-28 Using a proterty\obj\Debug\Listing 2-28 Using a proterty.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-28 Using a proterty\obj\Debug\Listing 2-28 Using a proterty.pdb

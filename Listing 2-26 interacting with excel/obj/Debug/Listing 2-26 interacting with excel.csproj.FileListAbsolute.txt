@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-26 interacting with excel\bin\Debug\Listing 2-26 interacting with excel.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-26 interacting with excel\bin\Debug\Listing 2-26 interacting with excel.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-26 interacting with excel\bin\Debug\Listing 2-26 interacting with excel.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-26 interacting with excel\obj\Debug\Listing 2-26 interacting with excel.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-26 interacting with excel\obj\Debug\Listing 2-26 interacting with excel.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-26 interacting with excel\obj\Debug\Listing 2-26 interacting with excel.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-26 interacting with excel\obj\Debug\Listing 2-26 interacting with excel.pdb

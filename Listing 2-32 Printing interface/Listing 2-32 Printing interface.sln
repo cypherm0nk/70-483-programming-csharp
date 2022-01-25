@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 2-32 Printing interface", "Listing 2-32 Printing interface.csproj", "{EC2CAB23-6CC4-4CE2-A4BD-7F4B9874515D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2CAB23-6CC4-4CE2-A4BD-7F4B9874515D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2CAB23-6CC4-4CE2-A4BD-7F4B9874515D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2CAB23-6CC4-4CE2-A4BD-7F4B9874515D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2CAB23-6CC4-4CE2-A4BD-7F4B9874515D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADAA896E-7C3E-499D-9A0E-9AFF36A423D0}
+	EndGlobalSection
+EndGlobal

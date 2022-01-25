@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing1.11CreateTask\bin\Debug\Listing1.11CreateTask.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing1.11CreateTask\bin\Debug\Listing1.11CreateTask.exe
+C:\JPGIT\70-483-programming-csharp\Listing1.11CreateTask\bin\Debug\Listing1.11CreateTask.pdb
+C:\JPGIT\70-483-programming-csharp\Listing1.11CreateTask\obj\Debug\Listing1.11CreateTask.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing1.11CreateTask\obj\Debug\Listing1.11CreateTask.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing1.11CreateTask\obj\Debug\Listing1.11CreateTask.exe
+C:\JPGIT\70-483-programming-csharp\Listing1.11CreateTask\obj\Debug\Listing1.11CreateTask.pdb

@@ -1,0 +1,10 @@
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\bin\Debug\Listing 3-3 Validating JSON.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\bin\Debug\Listing 3-3 Validating JSON.exe
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\bin\Debug\Listing 3-3 Validating JSON.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\bin\Debug\Newtonsoft.Json.dll
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\bin\Debug\Newtonsoft.Json.xml
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\obj\Debug\Listing 3-3 Validating JSON.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\obj\Debug\Listing 3-3 Validating JSON.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\obj\Debug\Listing 3-3 Validating JSON.csproj.CopyComplete
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\obj\Debug\Listing 3-3 Validating JSON.exe
+C:\JPGIT\70-483-programming-csharp\Listing 3-3 Validating JSON\obj\Debug\Listing 3-3 Validating JSON.pdb

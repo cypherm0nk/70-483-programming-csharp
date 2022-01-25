@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-53 Investigation a type\obj\Debug\Listing 2-53 Investigation a type.csprojAssemblyReference.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-53 Investigation a type\obj\Debug\Listing 2-53 Investigation a type.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-53 Investigation a type\bin\Debug\Listing 2-53 Investigation a type.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-53 Investigation a type\bin\Debug\Listing 2-53 Investigation a type.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-53 Investigation a type\bin\Debug\Listing 2-53 Investigation a type.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-53 Investigation a type\obj\Debug\Listing 2-53 Investigation a type.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-53 Investigation a type\obj\Debug\Listing 2-53 Investigation a type.pdb

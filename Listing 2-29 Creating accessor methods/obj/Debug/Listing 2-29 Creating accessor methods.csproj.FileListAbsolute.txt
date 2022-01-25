@@ -1,0 +1,6 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-29 Creating accessor methods\bin\Debug\Listing 2-29 Creating accessor methods.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-29 Creating accessor methods\bin\Debug\Listing 2-29 Creating accessor methods.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-29 Creating accessor methods\bin\Debug\Listing 2-29 Creating accessor methods.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-29 Creating accessor methods\obj\Debug\Listing 2-29 Creating accessor methods.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-29 Creating accessor methods\obj\Debug\Listing 2-29 Creating accessor methods.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-29 Creating accessor methods\obj\Debug\Listing 2-29 Creating accessor methods.pdb

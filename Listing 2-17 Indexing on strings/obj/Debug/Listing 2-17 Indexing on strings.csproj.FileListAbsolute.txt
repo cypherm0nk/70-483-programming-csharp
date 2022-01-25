@@ -1,0 +1,7 @@
+C:\Git\70-483 programming c#\Listing 2-17 Indexing on strings\obj\Debug\Listing 2-17 Indexing on strings.csprojAssemblyReference.cache
+C:\Git\70-483 programming c#\Listing 2-17 Indexing on strings\obj\Debug\Listing 2-17 Indexing on strings.csproj.CoreCompileInputs.cache
+C:\Git\70-483 programming c#\Listing 2-17 Indexing on strings\bin\Debug\Listing 2-17 Indexing on strings.exe.config
+C:\Git\70-483 programming c#\Listing 2-17 Indexing on strings\bin\Debug\Listing 2-17 Indexing on strings.exe
+C:\Git\70-483 programming c#\Listing 2-17 Indexing on strings\bin\Debug\Listing 2-17 Indexing on strings.pdb
+C:\Git\70-483 programming c#\Listing 2-17 Indexing on strings\obj\Debug\Listing 2-17 Indexing on strings.exe
+C:\Git\70-483 programming c#\Listing 2-17 Indexing on strings\obj\Debug\Listing 2-17 Indexing on strings.pdb

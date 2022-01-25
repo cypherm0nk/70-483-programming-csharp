@@ -1,0 +1,7 @@
+C:\JPGIT\70-483-programming-csharp\Listing3-12Using Convert\bin\Debug\Listing3-12Using Convert.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing3-12Using Convert\bin\Debug\Listing3-12Using Convert.exe
+C:\JPGIT\70-483-programming-csharp\Listing3-12Using Convert\bin\Debug\Listing3-12Using Convert.pdb
+C:\JPGIT\70-483-programming-csharp\Listing3-12Using Convert\obj\Debug\Listing3-12Using Convert.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing3-12Using Convert\obj\Debug\Listing3-12Using Convert.exe
+C:\JPGIT\70-483-programming-csharp\Listing3-12Using Convert\obj\Debug\Listing3-12Using Convert.pdb
+C:\JPGIT\70-483-programming-csharp\Listing3-12Using Convert\obj\Debug\Listing3-12Using Convert.csprojAssemblyReference.cache

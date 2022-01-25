@@ -1,0 +1,6 @@
+C:\JPGIT\70-483-programming-csharp\Listing 2-54 Reflection method call\obj\Debug\Listing 2-54 Reflection method call.csproj.CoreCompileInputs.cache
+C:\JPGIT\70-483-programming-csharp\Listing 2-54 Reflection method call\bin\Debug\Listing 2-54 Reflection method call.exe.config
+C:\JPGIT\70-483-programming-csharp\Listing 2-54 Reflection method call\bin\Debug\Listing 2-54 Reflection method call.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-54 Reflection method call\bin\Debug\Listing 2-54 Reflection method call.pdb
+C:\JPGIT\70-483-programming-csharp\Listing 2-54 Reflection method call\obj\Debug\Listing 2-54 Reflection method call.exe
+C:\JPGIT\70-483-programming-csharp\Listing 2-54 Reflection method call\obj\Debug\Listing 2-54 Reflection method call.pdb
